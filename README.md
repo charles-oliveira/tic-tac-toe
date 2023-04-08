@@ -1,9 +1,7 @@
 # Tic-Tac-Toe Game
-Este é um simples jogo da velha (tic-tac-toe) feito com JavaScript, HTML e CSS.
+Este é um simples jogo da velha (tic-tac-toe) feito com JavaScript, HTML e CSS. O jogo tem dois jogadores, X e O, que alternam entre marcar seus símbolos em um tabuleiro 3x3 até que um deles ganhe ou todos os espaços sejam preenchidos sem vencedor.
 
-O jogo tem dois jogadores, X e O, que alternam entre marcar seus símbolos em um tabuleiro 3x3 até que um deles ganhe ou todos os espaços sejam preenchidos sem vencedor.
-
-Como jogar
+## Como jogar
 Abra o arquivo index.html em seu navegador para começar o jogo.
 
 Clique em qualquer um dos botões no tabuleiro para marcar o espaço com o símbolo X.
