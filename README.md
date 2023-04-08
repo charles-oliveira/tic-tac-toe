@@ -3,7 +3,7 @@ Este é um simples jogo da velha (tic-tac-toe) feito com JavaScript, HTML e CSS.
 
 ## Como jogar
 
-1. Abra o arquivo index.html em seu navegador para começar o jogo.
+1. Acesse o link https://tictactoe-gm.netlify.app/ para começar o jogo.
 
 2. Clique em qualquer um dos botões no tabuleiro para marcar o espaço com o símbolo X.
 
