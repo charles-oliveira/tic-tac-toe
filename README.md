@@ -29,6 +29,4 @@ Os símbolos X e O são alternados em cada clique, usando uma variável booleana
 
 O jogo usa um array de padrões vencedores para verificar se um jogador ganhou a cada jogada.
 
-## Como executar o código
 
-Para executar o código, abra o arquivo index.html em um navegador. O jogo será iniciado automaticamente e poderá ser jogado usando o mouse para clicar nos botões do tabuleiro.
